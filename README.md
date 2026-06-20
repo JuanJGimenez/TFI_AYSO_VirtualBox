@@ -32,10 +32,11 @@ tp-virtualizacion/
     ├── 06_apt_update_ok.png
     ├── 07_error_venv.png
     ├── 08_venv_instalado.png
-    ├── 09_ssh_habilitado.png
-    ├── 10_reenvio_puertos.png
-    ├── 11_vscode_ssh.png
-    └── 12_ejecucion_programa.png
+    ├── 09_venv_activado.png
+    ├── 10_ssh_habilitado.png
+    ├── 11_reenvio_puertos.png
+    ├── 12_vscode_ssh.png
+    └── 13_ejecucion_programa.png
 ```
 
 ---

@@ -17,10 +17,8 @@ Este proyecto documenta la configuración de un entorno de desarrollo virtualiza
 ```
 tp-virtualizacion/
 ├── README.md
-├── informe/
-│   └── TP_Virtualizacion_Informe.pdf
-├── src/
-│   └── main.py
+├── TP_Virtualizacion_Informe.pdf
+├── main.py
 └── capturas/
     ├── asigno_especif.jpg
     ├── instalacion.jpg

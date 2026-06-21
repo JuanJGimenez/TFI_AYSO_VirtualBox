@@ -35,6 +35,7 @@ tp-virtualizacion/
     ├── 11_reenvio_puertos.png
     ├── 12_vscode_ssh.png
     └── 13_ejecucion_programa.png
+├── requirements.txt
 ```
 
 ---
